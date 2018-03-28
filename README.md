@@ -8,7 +8,7 @@ The whole process is based on a same multicast group. In this case, the address 
 There are two quit mechanism.First is an active method, when a node want to exit, a quit message will be sent by itself to the multicast group then all the node will delete this peer and its resources. Another way is a passive one, when a node can't be pinged, a quit message will also be sent by other nodes.  
 
 ## What's more
-I have also written down the tcp download script based on the exist IP and filename hash in the P2P table. This script can also develop some of the other app. Multicast is a really powerful protocol and I think P2P can take advantage on it. If you have any question you can contact me: hongyiz@kth.se
+I have also written down the tcp download script based on the exist IP and filename hash in the P2P table. The file is DownloadTCP.java and ThreadTcpDownload.java. This script can also develop some of the other app. Multicast is a really powerful protocol and I think P2P can take advantage on it. If you have any question you can contact me: hongyiz@kth.se
 
 ## Demo Results
 
