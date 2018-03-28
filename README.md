@@ -38,7 +38,7 @@ Current DHT: [192.168.3.108:4df551062c7c4eb0eeb2e7b73cc75b0b5649df3b, 192.168.3.
 
 quit
 
-! [192.168.3.108 Figure] (https://github.com/Mr-Hongyi/P2P-Model/blob/master/Figure/192.168.3.108.png);
+![192.168.3.108 Figure](https://github.com/Mr-Hongyi/P2P-Model/blob/master/Figure/192.168.3.108.png)
 
 ### 192.168.3.110
 
@@ -90,4 +90,4 @@ A node quit：192.168.3.110-
 
 Current DHT: []
 
-! [192.168.3.108 Figure] (https://github.com/Mr-Hongyi/P2P-Model/blob/master/Figure/192.168.3.110.png);
+![192.168.3.108 Figure](https://github.com/Mr-Hongyi/P2P-Model/blob/master/Figure/192.168.3.110.png)
